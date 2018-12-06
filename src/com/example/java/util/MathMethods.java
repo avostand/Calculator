@@ -37,6 +37,6 @@ class Methods {
         double d1 = Double.parseDouble(s1);
         double d2 = Double.parseDouble(s2);
         return d1 / d2;
-        System.out.println("aaaaaa");
+        System.out.println("aaaaaabbb");
     }
 }
